@@ -1,2 +1,0 @@
-s="Hell"
-print(s)
